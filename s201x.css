@@ -20,19 +20,16 @@ ul.items {
     padding: 0;
 }
 
-.header,
-.footer {
+.header,.footer {
     padding: 20px;
 }
-
 /** Flex Settings*/
 .main {
   background: #F7F9F9;
    margin-bottom: 10px;
-8}
+}
 .side {
-  background: #fea;
-  color: #a51c30;
+  background: #fea;  color: #a51c30;
 }
 .main,
 .side {
@@ -49,25 +46,16 @@ ul.items {
     margin: 0 10px 0 0;
   }
 }
-/*
+
 img{
 	
 	border: 2px;
 	height: 240px;
 	width: 180px;
 }
-*/
 
-img{
 
-	
-border-radius: 50%;
-    padding: 3px;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 0 7px #fff, 
-                0 0 0 8px #ddd;
 
-}
 
 
 .nav  li{
